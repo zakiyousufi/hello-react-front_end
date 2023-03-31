@@ -151,6 +151,6 @@ I would like to thank the Microverse curriculum.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project don't have any licens
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
